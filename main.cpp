@@ -15,7 +15,7 @@ void main()
 	CStackMazeSln stackMazeSln;
 	CQueueMazeSln queueMazeSln;
 	CGeneticMazeSln geneticMazeSln;
-	while(true)
+	while(true)	//Updating mechanism learnt from game develop
 	{
 		char control='\0';
 		do
